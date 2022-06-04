@@ -1,3 +1,13 @@
+# 🚧This Repo is no longer mainained🚧
+Sadly, my Dreame D9 died a long time ago.
+
+I thought about adding support for my new device into this project, but after some consideration I think it's better to collaborate on other projects like python-miio instead of (almost completely) rewriting this repository to have multi device support.
+
+For the time being this repository should work until HA changes something.
+
+<br/><br/>
+<br/><br/>
+
 # xiaomi_vacuum (Dreame D9) integration for Homeassistant
 
 A custom component for Dreame Vacuum Robot D9 (dreame.vacuum.p2009) with support for features such as consumables' lifespan, water level, room and zone cleaning, etc.  
